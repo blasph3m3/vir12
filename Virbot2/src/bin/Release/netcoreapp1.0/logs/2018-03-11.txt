@@ -1,0 +1,99 @@
+12:24:07 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:24:08 [Verbose] Rest: GET voice/regions: 513.2 ms
+12:24:08 [Info] Gateway: Connecting
+12:24:08 [Verbose] Rest: GET gateway: 45.73 ms
+12:24:09 [Info] Gateway: Connected
+12:24:10 [Verbose] Gateway: Connected to VirMortalis
+12:24:10 [Info] Gateway: Ready
+12:24:17 [Verbose] Rest: GET oauth2/applications/@me: 154.65 ms
+12:24:17 [Error] Command: Discord.Commands.CommandException: Error occurred executing "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> System.ArgumentException: Url must be a well-formed URI
+Parameter name: ThumbnailUrl
+   at Discord.EmbedBuilder.set_ThumbnailUrl(String value)
+   at Vir.Modules.ExampleModule.<vir2>d__7.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\core.cs:line 84
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+12:24:17 [Verbose] Command: Executed "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+12:24:31 [Error] Command: Discord.Commands.CommandException: Error occurred executing "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> System.ArgumentException: Url must be a well-formed URI
+Parameter name: ThumbnailUrl
+   at Discord.EmbedBuilder.set_ThumbnailUrl(String value)
+   at Vir.Modules.ExampleModule.<vir2>d__7.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\core.cs:line 84
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+12:24:31 [Verbose] Command: Executed "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+12:25:54 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:25:55 [Verbose] Rest: GET voice/regions: 478.93 ms
+12:25:55 [Info] Gateway: Connecting
+12:25:55 [Verbose] Rest: GET gateway: 45.95 ms
+12:25:56 [Info] Gateway: Connected
+12:25:57 [Verbose] Gateway: Connected to VirMortalis
+12:25:57 [Info] Gateway: Ready
+12:26:02 [Verbose] Rest: GET oauth2/applications/@me: 164.67 ms
+12:26:02 [Error] Command: Discord.Commands.CommandException: Error occurred executing "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> System.ArgumentException: Url must be a well-formed URI
+Parameter name: ThumbnailUrl
+   at Discord.EmbedBuilder.set_ThumbnailUrl(String value)
+   at Vir.Modules.ExampleModule.<vir2>d__7.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\core.cs:line 83
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+12:26:02 [Verbose] Command: Executed "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:02:00 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:02:02 [Verbose] Rest: GET voice/regions: 1655.45 ms
+01:02:03 [Info] Gateway: Connecting
+01:02:04 [Verbose] Rest: GET gateway: 92.96 ms
+01:02:05 [Info] Gateway: Connected
+01:02:06 [Verbose] Gateway: Connected to VirMortalis
+01:02:06 [Info] Gateway: Ready
+01:02:11 [Error] Command: Discord.Commands.CommandException: Error occurred executing "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> System.ArgumentException: Url must be a well-formed URI
+Parameter name: ThumbnailUrl
+   at Discord.EmbedBuilder.set_ThumbnailUrl(String value)
+   at Vir.Modules.ExampleModule.<Vir2>d__7.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\core.cs:line 81
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+01:02:11 [Verbose] Command: Executed "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:04:14 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:04:16 [Verbose] Rest: GET voice/regions: 1006.29 ms
+01:04:16 [Info] Gateway: Connecting
+01:04:16 [Verbose] Rest: GET gateway: 61.06 ms
+01:04:18 [Info] Gateway: Connected
+01:04:18 [Verbose] Gateway: Connected to VirMortalis
+01:04:18 [Info] Gateway: Ready
+01:04:19 [Verbose] Rest: GET oauth2/applications/@me: 154.02 ms
+01:04:19 [Verbose] Rest: POST channels/298932860423897088/messages: 304.14 ms
+01:04:19 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:06:46 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:06:47 [Verbose] Rest: GET voice/regions: 736.97 ms
+01:06:48 [Info] Gateway: Connecting
+01:06:48 [Verbose] Rest: GET gateway: 104.78 ms
+01:06:49 [Info] Gateway: Connected
+01:06:49 [Verbose] Gateway: Connected to VirMortalis
+01:06:49 [Info] Gateway: Ready
+01:06:51 [Verbose] Rest: GET oauth2/applications/@me: 143.7 ms
+01:06:51 [Verbose] Rest: POST channels/298932860423897088/messages: 233.75 ms
+01:06:51 [Verbose] Command: Executed "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot

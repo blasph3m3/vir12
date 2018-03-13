@@ -1,0 +1,23 @@
+03:29:49 [Info] Discord: Discord.Net v1.0.2 (API v6)
+03:29:50 [Verbose] Rest: GET voice/regions: 523.82 ms
+03:29:51 [Info] Gateway: Connecting
+03:29:51 [Verbose] Rest: GET gateway: 46.94 ms
+03:29:52 [Info] Gateway: Connected
+03:29:52 [Verbose] Gateway: Connected to VM-testserver
+03:29:52 [Verbose] Gateway: Connected to VirMortalis
+03:29:52 [Info] Gateway: Ready
+03:30:20 [Verbose] Rest: GET oauth2/applications/@me: 140.75 ms
+03:30:20 [Verbose] Rest: POST channels/298932860423897088/messages: 234.48 ms
+03:30:20 [Verbose] Command: Executed "Vir2" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:30:28 [Verbose] Rest: POST channels/298932860423897088/messages: 170.21 ms
+03:30:28 [Verbose] Command: Executed "etro" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:30:35 [Verbose] Rest: POST channels/298932860423897088/messages: 167.66 ms
+03:30:40 [Verbose] Rest: POST channels/298932860423897088/messages: 177.91 ms
+03:30:40 [Verbose] Command: Executed "lidd" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:30:57 [Verbose] Rest: POST channels/298932860423897088/messages: 206.97 ms
+03:30:57 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:31:07 [Verbose] Rest: POST channels/298932860423897088/messages: 177.99 ms
+03:31:07 [Verbose] Command: Executed "say" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:31:21 [Verbose] Rest: POST channels/298932860423897088/messages: 211.25 ms
+03:31:21 [Verbose] Command: Executed "say" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:43:06 [Verbose] Rest: POST channels/298932860423897088/messages: 343.99 ms

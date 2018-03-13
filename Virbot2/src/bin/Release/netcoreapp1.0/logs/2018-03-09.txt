@@ -1,0 +1,78 @@
+08:27:07 [Info] Discord: Discord.Net v1.0.2 (API v6)
+08:27:09 [Verbose] Rest: GET voice/regions: 900.76 ms
+08:27:09 [Info] Gateway: Connecting
+08:27:10 [Verbose] Rest: GET gateway: 168.23 ms
+08:27:12 [Info] Gateway: Connected
+08:27:12 [Verbose] Gateway: Connected to VirMortalis
+08:27:13 [Info] Gateway: Ready
+08:27:19 [Verbose] Rest: POST channels/297435889565564928/messages: 232.66 ms
+08:27:28 [Verbose] Rest: POST channels/297435889565564928/messages: 209.24 ms
+08:27:34 [Verbose] Rest: POST channels/297435889565564928/messages: 246.85 ms
+08:27:34 [Verbose] Command: Executed "ninja" for -VM-Blaspheme#6666 in VirMortalis/clanchat
+08:28:22 [Info] Discord: Discord.Net v1.0.2 (API v6)
+08:28:23 [Verbose] Rest: GET voice/regions: 640.97 ms
+08:28:23 [Info] Gateway: Connecting
+08:28:23 [Verbose] Rest: GET gateway: 38.15 ms
+08:28:24 [Info] Gateway: Connected
+08:28:25 [Verbose] Gateway: Connected to VirMortalis
+08:28:25 [Info] Gateway: Ready
+08:28:25 [Verbose] Rest: POST channels/297435889565564928/messages: 235.75 ms
+08:28:25 [Verbose] Command: Executed "ninja" for -VM-Blaspheme#6666 in VirMortalis/clanchat
+08:30:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+08:30:19 [Verbose] Rest: GET voice/regions: 678.2 ms
+08:30:20 [Info] Gateway: Connecting
+08:30:20 [Verbose] Rest: GET gateway: 185.53 ms
+08:30:22 [Info] Gateway: Connected
+08:30:23 [Verbose] Gateway: Connected to VirMortalis
+08:30:23 [Info] Gateway: Ready
+08:30:39 [Verbose] Rest: POST channels/297435889565564928/messages: 237.33 ms
+08:30:39 [Verbose] Command: Executed "lidd" for -VM-Blaspheme#6666 in VirMortalis/clanchat
+08:32:10 [Info] Discord: Discord.Net v1.0.2 (API v6)
+08:32:11 [Verbose] Rest: GET voice/regions: 655.77 ms
+08:32:11 [Info] Gateway: Connecting
+08:32:11 [Verbose] Rest: GET gateway: 39.66 ms
+08:32:13 [Info] Gateway: Connected
+08:32:13 [Verbose] Gateway: Connected to VirMortalis
+08:32:13 [Info] Gateway: Ready
+08:32:17 [Verbose] Rest: POST channels/297435889565564928/messages: 221.68 ms
+08:32:17 [Verbose] Command: Executed "ninja2" for -VM-Blaspheme#6666 in VirMortalis/clanchat
+08:32:49 [Verbose] Rest: POST channels/297435889565564928/messages: 198.18 ms
+08:32:53 [Verbose] Rest: POST channels/297435889565564928/messages: 221.39 ms
+08:33:33 [Verbose] Rest: GET oauth2/applications/@me: 150.94 ms
+08:33:34 [Verbose] Rest: POST channels/297435889565564928/messages: 289.75 ms
+08:33:34 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/clanchat
+08:37:55 [Verbose] Rest: POST channels/298932860423897088/messages: 297.16 ms
+08:37:55 [Verbose] Command: Executed "lidd" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+08:38:05 [Verbose] Rest: POST channels/298932860423897088/messages: 222.65 ms
+08:38:05 [Verbose] Command: Executed "lidd" for -VM-Etro#1294 in VirMortalis/adminbot
+08:38:15 [Verbose] Rest: POST channels/298932860423897088/messages: 454.03 ms
+08:38:15 [Verbose] Command: Executed "ninja" for -VM-Etro#1294 in VirMortalis/adminbot
+08:39:50 [Info] Discord: Discord.Net v1.0.2 (API v6)
+08:39:51 [Verbose] Rest: GET voice/regions: 674.48 ms
+08:39:52 [Info] Gateway: Connecting
+08:39:52 [Verbose] Rest: GET gateway: 120.16 ms
+08:39:53 [Info] Gateway: Connected
+08:39:54 [Verbose] Gateway: Connected to VirMortalis
+08:39:54 [Info] Gateway: Ready
+08:40:40 [Verbose] Rest: POST channels/298932860423897088/messages: 226.81 ms
+08:40:48 [Verbose] Rest: POST channels/298932860423897088/messages: 221.55 ms
+08:40:51 [Verbose] Rest: POST channels/298932860423897088/messages: 172.4 ms
+08:40:57 [Verbose] Rest: POST channels/298932860423897088/messages: 160.81 ms
+08:41:00 [Verbose] Rest: POST channels/298932860423897088/messages: 206.58 ms
+08:41:09 [Verbose] Rest: POST channels/298932860423897088/messages: 166.95 ms
+08:49:35 [Info] Discord: Discord.Net v1.0.2 (API v6)
+08:49:37 [Verbose] Rest: GET voice/regions: 1238.38 ms
+08:49:38 [Info] Gateway: Connecting
+08:49:38 [Verbose] Rest: GET gateway: 51.46 ms
+08:49:40 [Info] Gateway: Connected
+08:49:40 [Verbose] Gateway: Connected to VirMortalis
+08:49:40 [Info] Gateway: Ready
+09:01:30 [Info] Discord: Discord.Net v1.0.2 (API v6)
+09:01:31 [Verbose] Rest: GET voice/regions: 528.81 ms
+09:01:31 [Info] Gateway: Connecting
+09:01:31 [Verbose] Rest: GET gateway: 45.39 ms
+09:01:32 [Info] Gateway: Connected
+09:01:32 [Verbose] Gateway: Connected to VirMortalis
+09:01:32 [Info] Gateway: Ready
+09:01:39 [Verbose] Rest: POST channels/297435889565564928/messages: 225.44 ms
+09:01:39 [Verbose] Command: Executed "etro" for -VM-Etro#1294 in VirMortalis/clanchat

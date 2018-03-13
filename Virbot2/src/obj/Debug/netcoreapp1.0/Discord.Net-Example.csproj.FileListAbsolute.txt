@@ -1,0 +1,12 @@
+E:\Discord.Net-Example-1.0\src\bin\Debug\netcoreapp1.0\_configuration.json
+E:\Discord.Net-Example-1.0\src\bin\Debug\netcoreapp1.0\Discord.Net-Example.deps.json
+E:\Discord.Net-Example-1.0\src\bin\Debug\netcoreapp1.0\Discord.Net-Example.runtimeconfig.json
+E:\Discord.Net-Example-1.0\src\bin\Debug\netcoreapp1.0\Discord.Net-Example.runtimeconfig.dev.json
+E:\Discord.Net-Example-1.0\src\bin\Debug\netcoreapp1.0\Discord.Net-Example.dll
+E:\Discord.Net-Example-1.0\src\bin\Debug\netcoreapp1.0\Discord.Net-Example.pdb
+E:\Discord.Net-Example-1.0\src\obj\Debug\netcoreapp1.0\Discord.Net-Example.csproj.CoreCompileInputs.cache
+E:\Discord.Net-Example-1.0\src\obj\Debug\netcoreapp1.0\Discord.Net-Example.AssemblyInfoInputs.cache
+E:\Discord.Net-Example-1.0\src\obj\Debug\netcoreapp1.0\Discord.Net-Example.AssemblyInfo.cs
+E:\Discord.Net-Example-1.0\src\obj\Debug\netcoreapp1.0\Discord.Net-Example.dll
+E:\Discord.Net-Example-1.0\src\obj\Debug\netcoreapp1.0\Discord.Net-Example.pdb
+E:\Discord.Net-Example-1.0\src\obj\Debug\netcoreapp1.0\Discord.Net-Example.csprojResolveAssemblyReference.cache

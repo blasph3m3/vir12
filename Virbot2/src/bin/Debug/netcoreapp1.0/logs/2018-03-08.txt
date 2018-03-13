@@ -1,0 +1,309 @@
+12:19:40 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> System.Net.Http.WinHttpException: The connection with the server was terminated abnormally
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WinHttpWebSocket.<ReceiveAsync>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.WebSockets.DefaultWebSocketClient.<RunAsync>d__32.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+12:19:40 [Info] Gateway: Disconnecting
+12:19:40 [Verbose] Gateway: Disconnected from VirMortalis
+12:19:40 [Info] Gateway: Disconnected
+12:19:41 [Info] Gateway: Connecting
+12:19:41 [Verbose] Rest: GET gateway: 107.9 ms
+12:19:42 [Warning] Gateway: Failed to resume previous session
+12:19:42 [Info] Gateway: Connected
+12:19:42 [Verbose] Gateway: Connected to VirMortalis
+12:19:42 [Info] Gateway: Ready
+01:38:35 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:38:36 [Verbose] Rest: GET voice/regions: 604.34 ms
+01:38:36 [Info] Gateway: Connecting
+01:38:36 [Verbose] Rest: GET gateway: 61.37 ms
+01:38:37 [Info] Gateway: Connected
+01:38:38 [Verbose] Gateway: Connected to VirMortalis
+01:38:38 [Info] Gateway: Ready
+01:38:59 [Verbose] Rest: POST channels/298932860423897088/messages: 206.6 ms
+01:39:06 [Verbose] Rest: POST channels/298932860423897088/messages: 194.45 ms
+01:40:24 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:40:25 [Verbose] Rest: GET voice/regions: 542.88 ms
+01:40:25 [Info] Gateway: Connecting
+01:40:25 [Verbose] Rest: GET gateway: 46.27 ms
+01:40:26 [Info] Gateway: Connected
+01:40:27 [Verbose] Gateway: Connected to VirMortalis
+01:40:27 [Info] Gateway: Ready
+01:40:34 [Verbose] Rest: POST channels/298932860423897088/messages: 187.24 ms
+01:40:34 [Verbose] Command: Executed "ping" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:40:40 [Verbose] Rest: GET oauth2/applications/@me: 143.42 ms
+01:40:40 [Verbose] Rest: POST channels/298932860423897088/messages: 176.36 ms
+01:40:40 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:42:47 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:42:48 [Verbose] Rest: GET voice/regions: 586.56 ms
+01:42:48 [Info] Gateway: Connecting
+01:42:48 [Verbose] Rest: GET gateway: 45.06 ms
+01:42:49 [Info] Gateway: Connected
+01:42:50 [Verbose] Gateway: Connected to VirMortalis
+01:42:50 [Info] Gateway: Ready
+01:42:55 [Verbose] Rest: GET oauth2/applications/@me: 146.32 ms
+01:42:55 [Verbose] Rest: POST channels/298932860423897088/messages: 244.18 ms
+01:42:55 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:45:41 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:45:42 [Verbose] Rest: GET voice/regions: 584.91 ms
+01:45:42 [Info] Gateway: Connecting
+01:45:43 [Verbose] Rest: GET gateway: 44.64 ms
+01:45:44 [Info] Gateway: Connected
+01:45:44 [Verbose] Gateway: Connected to VirMortalis
+01:45:44 [Info] Gateway: Ready
+01:45:52 [Verbose] Rest: GET oauth2/applications/@me: 142.65 ms
+01:45:52 [Verbose] Rest: POST channels/298932860423897088/messages: 226.7 ms
+01:45:52 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:47:05 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:47:06 [Verbose] Rest: GET voice/regions: 599.77 ms
+01:47:07 [Info] Gateway: Connecting
+01:47:07 [Verbose] Rest: GET gateway: 50.33 ms
+01:47:08 [Info] Gateway: Connected
+01:47:08 [Verbose] Gateway: Connected to VirMortalis
+01:47:08 [Info] Gateway: Ready
+01:47:20 [Verbose] Rest: GET oauth2/applications/@me: 145.33 ms
+01:47:21 [Verbose] Rest: POST channels/298932860423897088/messages: 227.74 ms
+01:47:21 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:49:44 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:49:45 [Verbose] Rest: GET voice/regions: 631.69 ms
+01:49:46 [Info] Gateway: Connecting
+01:49:46 [Verbose] Rest: GET gateway: 43.43 ms
+01:49:47 [Info] Gateway: Connected
+01:49:47 [Verbose] Gateway: Connected to VirMortalis
+01:49:47 [Info] Gateway: Ready
+01:49:59 [Verbose] Rest: GET oauth2/applications/@me: 160.17 ms
+01:49:59 [Verbose] Rest: POST channels/298932860423897088/messages: 216.88 ms
+01:49:59 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:55:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:55:18 [Verbose] Rest: GET voice/regions: 571.31 ms
+01:55:19 [Info] Gateway: Connecting
+01:55:19 [Verbose] Rest: GET gateway: 63.15 ms
+01:55:20 [Info] Gateway: Connected
+01:55:21 [Verbose] Gateway: Connected to VirMortalis
+01:55:21 [Info] Gateway: Ready
+01:55:30 [Verbose] Rest: GET oauth2/applications/@me: 176.56 ms
+01:55:30 [Verbose] Rest: POST channels/298932860423897088/messages: 254.87 ms
+01:55:30 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:56:40 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:56:41 [Verbose] Rest: GET voice/regions: 619.91 ms
+01:56:42 [Info] Gateway: Connecting
+01:56:42 [Verbose] Rest: GET gateway: 45.98 ms
+01:56:43 [Info] Gateway: Connected
+01:56:43 [Verbose] Gateway: Connected to VirMortalis
+01:56:43 [Info] Gateway: Ready
+01:56:47 [Verbose] Rest: GET oauth2/applications/@me: 138.65 ms
+01:56:47 [Verbose] Rest: POST channels/298932860423897088/messages: 260.75 ms
+01:56:47 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+01:59:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:59:14 [Verbose] Rest: GET voice/regions: 597.48 ms
+01:59:14 [Info] Gateway: Connecting
+01:59:14 [Verbose] Rest: GET gateway: 69.69 ms
+01:59:16 [Info] Gateway: Connected
+01:59:16 [Verbose] Gateway: Connected to VirMortalis
+01:59:16 [Info] Gateway: Ready
+01:59:17 [Verbose] Rest: GET oauth2/applications/@me: 142 ms
+01:59:18 [Verbose] Rest: POST channels/298932860423897088/messages: 201.6 ms
+01:59:18 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:01:18 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:01:19 [Verbose] Rest: GET voice/regions: 683.42 ms
+02:01:19 [Info] Gateway: Connecting
+02:01:20 [Verbose] Rest: GET gateway: 45.88 ms
+02:01:21 [Info] Gateway: Connected
+02:01:21 [Verbose] Gateway: Connected to VirMortalis
+02:01:21 [Info] Gateway: Ready
+02:01:22 [Verbose] Rest: GET oauth2/applications/@me: 148.27 ms
+02:01:22 [Verbose] Rest: POST channels/298932860423897088/messages: 219.8 ms
+02:01:22 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:09:13 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:09:13 [Verbose] Rest: GET voice/regions: 556.89 ms
+02:09:14 [Info] Gateway: Connecting
+02:09:14 [Verbose] Rest: GET gateway: 82.69 ms
+02:09:15 [Info] Gateway: Connected
+02:09:15 [Verbose] Gateway: Connected to VirMortalis
+02:09:16 [Info] Gateway: Ready
+02:09:23 [Verbose] Rest: POST channels/298932860423897088/messages: 196.81 ms
+02:09:28 [Verbose] Rest: GET oauth2/applications/@me: 140.88 ms
+02:09:28 [Verbose] Rest: POST channels/298932860423897088/messages: 187.58 ms
+02:09:28 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:17:14 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:17:15 [Verbose] Rest: GET voice/regions: 543.54 ms
+02:17:15 [Info] Gateway: Connecting
+02:17:15 [Verbose] Rest: GET gateway: 78.47 ms
+02:17:17 [Info] Gateway: Connected
+02:17:17 [Verbose] Gateway: Connected to VirMortalis
+02:17:17 [Info] Gateway: Ready
+02:17:23 [Verbose] Rest: GET oauth2/applications/@me: 149.68 ms
+02:17:23 [Verbose] Rest: POST channels/298932860423897088/messages: 214.66 ms
+02:17:23 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:18:41 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:18:42 [Verbose] Rest: GET voice/regions: 584.18 ms
+02:18:43 [Info] Gateway: Connecting
+02:18:43 [Verbose] Rest: GET gateway: 45.18 ms
+02:18:44 [Info] Gateway: Connected
+02:18:44 [Verbose] Gateway: Connected to VirMortalis
+02:18:44 [Info] Gateway: Ready
+02:18:46 [Verbose] Rest: GET oauth2/applications/@me: 147.4 ms
+02:18:47 [Verbose] Rest: POST channels/298932860423897088/messages: 407.89 ms
+02:18:47 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:22:12 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:22:13 [Verbose] Rest: GET voice/regions: 706.37 ms
+02:22:13 [Info] Gateway: Connecting
+02:22:14 [Verbose] Rest: GET gateway: 55.12 ms
+02:22:15 [Info] Gateway: Connected
+02:22:15 [Verbose] Gateway: Connected to VirMortalis
+02:22:15 [Info] Gateway: Ready
+02:22:17 [Verbose] Rest: GET oauth2/applications/@me: 146.45 ms
+02:22:18 [Verbose] Rest: POST channels/298932860423897088/messages: 189.33 ms
+02:22:18 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:22:40 [Verbose] Rest: POST channels/298932860423897088/messages: 184.93 ms
+02:22:40 [Verbose] Command: Executed "Blash" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:22:59 [Verbose] Rest: POST channels/298932860423897088/messages: 225.38 ms
+02:22:59 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:24:20 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:24:20 [Verbose] Rest: GET voice/regions: 521.98 ms
+02:24:21 [Info] Gateway: Connecting
+02:24:21 [Verbose] Rest: GET gateway: 73.79 ms
+02:24:23 [Info] Gateway: Connected
+02:24:23 [Verbose] Gateway: Connected to VirMortalis
+02:24:23 [Info] Gateway: Ready
+02:24:48 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:24:49 [Verbose] Rest: GET voice/regions: 532.16 ms
+02:24:49 [Info] Gateway: Connecting
+02:24:49 [Verbose] Rest: GET gateway: 45.72 ms
+02:24:50 [Info] Gateway: Connected
+02:24:51 [Verbose] Gateway: Connected to VirMortalis
+02:24:51 [Info] Gateway: Ready
+02:25:03 [Verbose] Rest: GET oauth2/applications/@me: 183.29 ms
+02:25:03 [Verbose] Rest: POST channels/298932860423897088/messages: 261.84 ms
+02:25:03 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:27:24 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:27:25 [Verbose] Rest: GET voice/regions: 649.18 ms
+02:27:25 [Info] Gateway: Connecting
+02:27:25 [Verbose] Rest: GET gateway: 37.34 ms
+02:27:26 [Info] Gateway: Connected
+02:27:27 [Verbose] Gateway: Connected to VirMortalis
+02:27:27 [Info] Gateway: Ready
+02:27:37 [Verbose] Rest: POST channels/298932860423897088/messages: 200.22 ms
+02:27:42 [Error] Command: Discord.Commands.CommandException: Error occurred executing "nick" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> Discord.Net.HttpException: The server responded with error 403: Forbidden
+   at Discord.Net.Queue.RequestBucket.<SendAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.Queue.RequestQueue.<SendAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<SendInternalAsync>d__62.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<SendJsonAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<ModifyGuildMemberAsync>d__123.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Rest.UserHelper.<ModifyAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Vir.Modules.ExampleModule.<Nick>d__5.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\ExampleModule.cs:line 79
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+02:27:42 [Verbose] Command: Executed "nick" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:30:16 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:30:17 [Verbose] Rest: GET voice/regions: 548.02 ms
+02:30:17 [Info] Gateway: Connecting
+02:30:17 [Verbose] Rest: GET gateway: 33.92 ms
+02:30:18 [Info] Gateway: Connected
+02:30:19 [Verbose] Gateway: Connected to VirMortalis
+02:30:19 [Info] Gateway: Ready
+02:30:31 [Error] Command: Discord.Commands.CommandException: Error occurred executing "nick" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> Discord.Net.HttpException: The server responded with error 403: Forbidden
+   at Discord.Net.Queue.RequestBucket.<SendAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.Queue.RequestQueue.<SendAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<SendInternalAsync>d__62.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<SendJsonAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<ModifyGuildMemberAsync>d__123.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Rest.UserHelper.<ModifyAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Vir.Modules.ExampleModule.<Nick>d__5.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\ExampleModule.cs:line 79
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Vir.Modules.ExampleModule.<Nick>d__4.MoveNext() in E:\Discord.Net-Example-1.0\src\Modules\ExampleModule.cs:line 72
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+02:30:31 [Verbose] Command: Executed "nick" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:32:59 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:33:00 [Verbose] Rest: GET voice/regions: 694.01 ms
+02:33:00 [Info] Gateway: Connecting
+02:33:00 [Verbose] Rest: GET gateway: 68.52 ms
+02:33:01 [Info] Gateway: Connected
+02:33:02 [Verbose] Gateway: Connected to VirMortalis
+02:33:02 [Info] Gateway: Ready
+02:33:09 [Verbose] Rest: GET oauth2/applications/@me: 144.31 ms
+02:33:09 [Verbose] Rest: POST channels/298932860423897088/messages: 199.85 ms
+02:33:09 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+02:33:48 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:33:49 [Verbose] Rest: GET voice/regions: 567.06 ms
+02:33:49 [Info] Gateway: Connecting
+02:33:49 [Verbose] Rest: GET gateway: 36.1 ms
+02:33:51 [Info] Gateway: Connected
+02:33:51 [Verbose] Gateway: Connected to VirMortalis
+02:33:51 [Info] Gateway: Ready
+02:33:59 [Verbose] Rest: GET oauth2/applications/@me: 146.25 ms
+02:34:00 [Verbose] Rest: POST channels/298932860423897088/messages: 241.91 ms
+02:34:00 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+12:08:09 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:08:10 [Verbose] Rest: GET voice/regions: 513.1 ms
+12:08:10 [Info] Gateway: Connecting
+12:08:10 [Verbose] Rest: GET gateway: 36.8 ms
+12:08:11 [Info] Gateway: Connected
+12:08:11 [Verbose] Gateway: Connected to VirMortalis
+12:08:12 [Info] Gateway: Ready
+12:08:32 [Verbose] Rest: POST channels/298932860423897088/messages: 224.98 ms
+12:08:38 [Verbose] Rest: GET oauth2/applications/@me: 157.16 ms
+12:08:38 [Verbose] Rest: POST channels/298932860423897088/messages: 185.67 ms
+12:08:38 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot

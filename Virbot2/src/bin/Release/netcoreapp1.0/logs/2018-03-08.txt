@@ -1,0 +1,80 @@
+12:19:43 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:19:44 [Verbose] Rest: GET voice/regions: 473.54 ms
+12:19:44 [Info] Gateway: Connecting
+12:19:44 [Verbose] Rest: GET gateway: 36.1 ms
+12:19:45 [Info] Gateway: Connected
+12:19:45 [Verbose] Gateway: Connected to VirMortalis
+12:19:45 [Info] Gateway: Ready
+12:19:50 [Verbose] Rest: POST channels/298932860423897088/messages: 192.67 ms
+12:19:50 [Verbose] Command: Executed "fuit" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+12:24:40 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:24:41 [Verbose] Rest: GET voice/regions: 548.65 ms
+12:24:41 [Info] Gateway: Connecting
+12:24:41 [Verbose] Rest: GET gateway: 49.18 ms
+12:24:42 [Info] Gateway: Connected
+12:24:42 [Verbose] Gateway: Connected to VirMortalis
+12:24:42 [Info] Gateway: Ready
+02:49:16 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> System.Net.Http.WinHttpException: The connection with the server was terminated abnormally
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WinHttpWebSocket.<ReceiveAsync>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.WebSockets.DefaultWebSocketClient.<RunAsync>d__32.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+02:49:16 [Info] Gateway: Disconnecting
+02:49:16 [Verbose] Gateway: Disconnected from VirMortalis
+02:49:16 [Info] Gateway: Disconnected
+02:49:17 [Info] Gateway: Connecting
+02:49:17 [Verbose] Rest: GET gateway: 110.41 ms
+02:49:18 [Warning] Gateway: Failed to resume previous session
+02:49:18 [Info] Gateway: Connected
+02:49:18 [Verbose] Gateway: Connected to VirMortalis
+02:49:18 [Info] Gateway: Ready
+03:23:56 [Info] Discord: Discord.Net v1.0.2 (API v6)
+03:23:57 [Verbose] Rest: GET voice/regions: 562.5 ms
+03:23:57 [Info] Gateway: Connecting
+03:23:57 [Verbose] Rest: GET gateway: 44.56 ms
+03:23:59 [Info] Gateway: Connected
+03:23:59 [Verbose] Gateway: Connected to VirMortalis
+03:23:59 [Info] Gateway: Ready
+05:55:42 [Verbose] Rest: GET oauth2/applications/@me: 258.18 ms
+05:55:42 [Verbose] Rest: POST channels/298932860423897088/messages: 229.4 ms
+05:55:43 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+05:55:46 [Verbose] Rest: POST channels/298932860423897088/messages: 280.82 ms
+05:55:51 [Verbose] Rest: POST channels/298932860423897088/messages: 162.9 ms
+05:56:01 [Verbose] Rest: POST channels/298932860423897088/messages: 204.73 ms
+05:56:01 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+05:56:38 [Verbose] Rest: POST channels/298916728275206145/messages: 189.34 ms
+05:56:38 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/botspam
+05:56:45 [Verbose] Rest: POST channels/298916728275206145/messages: 310.43 ms
+05:56:45 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/botspam
+05:56:53 [Verbose] Rest: POST channels/298916728275206145/messages: 232.67 ms
+05:57:01 [Verbose] Rest: POST channels/298916728275206145/messages: 196.56 ms
+05:57:06 [Verbose] Rest: POST channels/298916728275206145/messages: 190.39 ms
+05:57:14 [Verbose] Rest: POST channels/298916728275206145/messages: 206.47 ms
+05:57:18 [Verbose] Rest: POST channels/298916728275206145/messages: 191.39 ms
+05:57:18 [Verbose] Command: Executed "Vir" for -VM-Blaspheme#6666 in VirMortalis/botspam
+05:57:36 [Verbose] Rest: POST channels/298916728275206145/messages: 232.92 ms
+05:57:41 [Verbose] Rest: POST channels/298916728275206145/messages: 248.01 ms
+05:57:41 [Verbose] Command: Executed "say" for -VM-Blaspheme#6666 in VirMortalis/botspam
+08:06:49 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.<RunAsync>d__32.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+08:06:49 [Info] Gateway: Disconnecting
+08:06:49 [Verbose] Gateway: Disconnected from VirMortalis
+08:06:49 [Info] Gateway: Disconnected
+08:06:50 [Info] Gateway: Connecting
+08:06:50 [Verbose] Rest: GET gateway: 114.61 ms
+08:06:51 [Verbose] Gateway: Connected to VirMortalis
+08:06:51 [Info] Gateway: Resumed previous session
+09:48:47 [Verbose] Rest: POST channels/297435889565564928/messages: 382.14 ms
+09:48:56 [Verbose] Rest: POST channels/297435889565564928/messages: 250.86 ms
+09:48:56 [Verbose] Command: Executed "Rules" for -VM-Blaspheme#6666 in VirMortalis/clanchat

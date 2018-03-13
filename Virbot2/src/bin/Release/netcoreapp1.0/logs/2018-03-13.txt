@@ -1,0 +1,128 @@
+12:21:50 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> System.Net.Http.WinHttpException: The connection with the server was terminated abnormally
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WinHttpWebSocket.<ReceiveAsync>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.WebSockets.DefaultWebSocketClient.<RunAsync>d__32.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+12:21:53 [Info] Gateway: Disconnecting
+12:21:53 [Verbose] Gateway: Disconnected from VirMortalis
+12:21:53 [Verbose] Gateway: Disconnected from VM-testserver
+12:21:53 [Info] Gateway: Disconnected
+12:21:54 [Info] Gateway: Connecting
+12:21:55 [Verbose] Rest: GET gateway: 247.48 ms
+12:21:55 [Warning] Gateway: Failed to resume previous session
+12:21:55 [Info] Gateway: Connected
+12:21:56 [Verbose] Gateway: Connected to VirMortalis
+12:21:56 [Verbose] Gateway: Connected to VM-testserver
+12:21:56 [Info] Gateway: Ready
+02:29:30 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:29:31 [Verbose] Rest: GET voice/regions: 568.69 ms
+02:29:32 [Info] Gateway: Connecting
+02:29:32 [Verbose] Rest: GET gateway: 33.98 ms
+02:29:33 [Info] Gateway: Connected
+02:29:33 [Verbose] Gateway: Connected to VM-testserver
+02:29:33 [Verbose] Gateway: Connected to VirMortalis
+02:29:33 [Info] Gateway: Ready
+02:36:05 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:36:06 [Verbose] Rest: GET voice/regions: 520.86 ms
+02:36:06 [Info] Gateway: Connecting
+02:36:06 [Verbose] Rest: GET gateway: 55.94 ms
+02:36:07 [Info] Gateway: Connected
+02:36:07 [Verbose] Gateway: Connected to VirMortalis
+02:36:07 [Verbose] Gateway: Connected to VM-testserver
+02:36:08 [Info] Gateway: Ready
+02:36:20 [Verbose] Rest: POST channels/422823871927025664/messages: 194.48 ms
+02:36:36 [Error] Command: Discord.Commands.CommandException: Error occurred executing "rolememe" for -VM-Blaspheme#6666 in VM-testserver/shitposting101. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Discord.Rest.UserHelper.<AddRolesAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Vir.Modules.rolememe.<Rolememe>d__0.MoveNext() in C:\Users\Angel\Documents\Virbot2\src\Modules\track.cs:line 21
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+02:36:36 [Verbose] Command: Executed "rolememe" for -VM-Blaspheme#6666 in VM-testserver/shitposting101
+02:37:16 [Verbose] Rest: PUT guilds/297435889565564928/members/157958863038054400/roles/351452223617630219: 164.41 ms
+02:37:16 [Verbose] Command: Executed "rolememe" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:02:31 [Info] Discord: Discord.Net v1.0.2 (API v6)
+03:02:32 [Verbose] Rest: GET voice/regions: 653.28 ms
+03:02:33 [Info] Gateway: Connecting
+03:02:33 [Verbose] Rest: GET gateway: 41.18 ms
+03:02:34 [Info] Gateway: Connected
+03:02:34 [Verbose] Gateway: Connected to VM-testserver
+03:02:34 [Verbose] Gateway: Connected to VirMortalis
+03:02:34 [Info] Gateway: Ready
+03:02:57 [Verbose] Rest: POST channels/298932860423897088/messages: 191.72 ms
+03:03:07 [Verbose] Rest: PUT guilds/297435889565564928/members/255832257519026178/roles/351452223617630219: 155.34 ms
+03:03:07 [Verbose] Command: Executed "rolememe" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:32:46 [Info] Discord: Discord.Net v1.0.2 (API v6)
+03:32:47 [Verbose] Rest: GET voice/regions: 537.82 ms
+03:32:48 [Info] Gateway: Connecting
+03:32:48 [Verbose] Rest: GET gateway: 39.09 ms
+03:32:49 [Info] Gateway: Connected
+03:32:49 [Verbose] Gateway: Connected to VirMortalis
+03:32:49 [Verbose] Gateway: Connected to VM-testserver
+03:32:49 [Info] Gateway: Ready
+11:15:47 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:15:48 [Verbose] Rest: GET voice/regions: 757.08 ms
+11:15:48 [Info] Gateway: Connecting
+11:15:48 [Verbose] Rest: GET gateway: 39.86 ms
+11:15:49 [Info] Gateway: Connected
+11:15:49 [Verbose] Gateway: Connected to VM-testserver
+11:15:50 [Verbose] Gateway: Connected to VirMortalis
+11:15:50 [Info] Gateway: Ready
+11:16:37 [Verbose] Rest: POST channels/298932860423897088/messages: 206.99 ms
+11:17:01 [Verbose] Rest: POST channels/298932860423897088/messages: 163.13 ms
+11:18:07 [Info] Discord: Discord.Net v1.0.2 (API v6)
+11:18:08 [Verbose] Rest: GET voice/regions: 481.01 ms
+11:18:08 [Info] Gateway: Connecting
+11:18:08 [Verbose] Rest: GET gateway: 45.98 ms
+11:18:09 [Info] Gateway: Connected
+11:18:09 [Verbose] Gateway: Connected to VM-testserver
+11:18:09 [Verbose] Gateway: Connected to VirMortalis
+11:18:10 [Info] Gateway: Ready
+11:18:20 [Verbose] Rest: PUT guilds/297435889565564928/members/255832257519026178/roles/351452223617630219: 158.23 ms
+11:18:20 [Verbose] Command: Executed "addrole" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+11:35:30 [Verbose] Rest: POST channels/298932860423897088/messages: 308.4 ms
+11:35:44 [Verbose] Rest: POST channels/298932860423897088/messages: 160.43 ms
+11:50:11 [Warning] Gateway: System.Exception: WebSocket connection was closed ---> System.Net.Http.WinHttpException: The connection with the server was terminated abnormally
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.WebSockets.WinHttpWebSocket.<ReceiveAsync>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.WebSockets.DefaultWebSocketClient.<RunAsync>d__32.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.ConnectionManager.<>c__DisplayClass28_0.<<StartAsync>b__0>d.MoveNext()
+11:50:11 [Info] Gateway: Disconnecting
+11:50:11 [Verbose] Gateway: Disconnected from VirMortalis
+11:50:11 [Verbose] Gateway: Disconnected from VM-testserver
+11:50:11 [Info] Gateway: Disconnected
+11:50:12 [Info] Gateway: Connecting
+11:50:12 [Verbose] Rest: GET gateway: 131.22 ms
+11:50:12 [Info] Gateway: Connected
+11:50:12 [Verbose] Gateway: Connected to VM-testserver
+11:50:12 [Info] Gateway: Resumed previous session
+12:56:51 [Info] Discord: Discord.Net v1.0.2 (API v6)
+12:56:52 [Verbose] Rest: GET voice/regions: 641.81 ms
+12:56:52 [Info] Gateway: Connecting
+12:56:52 [Verbose] Rest: GET gateway: 51.29 ms
+12:56:54 [Info] Gateway: Connected
+12:56:54 [Verbose] Gateway: Connected to VM-testserver
+12:56:54 [Verbose] Gateway: Connected to VirMortalis
+12:56:54 [Info] Gateway: Ready
