@@ -1,0 +1,18 @@
+01:57:56 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:57:56 [Verbose] Rest: GET voice/regions: 513.49 ms
+01:57:57 [Info] Gateway: Connecting
+01:57:57 [Verbose] Rest: GET gateway: 73.52 ms
+01:59:15 [Info] Discord: Discord.Net v1.0.2 (API v6)
+01:59:16 [Verbose] Rest: GET voice/regions: 501.96 ms
+01:59:17 [Info] Gateway: Connecting
+01:59:17 [Verbose] Rest: GET gateway: 37.35 ms
+01:59:18 [Info] Gateway: Connected
+01:59:18 [Verbose] Gateway: Connected to VM-testserver
+01:59:18 [Verbose] Gateway: Connected to VirMortalis
+01:59:18 [Info] Gateway: Ready
+01:59:31 [Verbose] Rest: POST channels/422445123390144512/messages: 188 ms
+01:59:31 [Verbose] Command: Executed "ping" for -VM-Blaspheme#6666 in VM-testserver/botspam
+02:00:32 [Info] Discord: Discord.Net v1.0.2 (API v6)
+02:00:33 [Verbose] Rest: GET voice/regions: 523.44 ms
+02:00:34 [Info] Gateway: Connecting
+02:00:34 [Verbose] Rest: GET gateway: 36.61 ms

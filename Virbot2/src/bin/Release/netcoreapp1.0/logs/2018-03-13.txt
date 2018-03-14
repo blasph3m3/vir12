@@ -126,3 +126,46 @@
 12:56:54 [Verbose] Gateway: Connected to VM-testserver
 12:56:54 [Verbose] Gateway: Connected to VirMortalis
 12:56:54 [Info] Gateway: Ready
+01:23:58 [Verbose] Rest: POST channels/298932860423897088/messages: 300.58 ms
+03:31:34 [Error] Command: Discord.Commands.CommandException: Error occurred executing "addrole" for -VM-Blaspheme#6666 in VirMortalis/adminbot. ---> Discord.Net.HttpException: The server responded with error 403: Forbidden
+   at Discord.Net.Queue.RequestBucket.<SendAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Net.Queue.RequestQueue.<SendAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<SendInternalAsync>d__62.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<SendAsync>d__51.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.API.DiscordRestApiClient.<AddRoleAsync>d__73.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Rest.UserHelper.<AddRolesAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Vir.Modules.addrole.<Mem>d__0.MoveNext() in C:\Users\Angel\Documents\Virbot2\src\Modules\track.cs:line 21
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.ModuleClassBuilder.<>c__DisplayClass6_1.<<BuildCommand>g__ExecuteCallback1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Discord.Commands.CommandInfo.<ExecuteAsyncInternal>d__41.MoveNext()
+   --- End of inner exception stack trace ---
+03:31:35 [Verbose] Command: Executed "addrole" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:32:34 [Verbose] Rest: PUT guilds/297435889565564928/members/255832257519026178/roles/351452223617630219: 185.47 ms
+03:32:34 [Verbose] Command: Executed "addrole" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:33:07 [Verbose] Rest: PUT guilds/297435889565564928/members/255832257519026178/roles/351452223617630219: 152.46 ms
+03:33:07 [Verbose] Command: Executed "addrole" for -VM-Blaspheme#6666 in VirMortalis/adminbot
+03:49:05 [Verbose] Rest: PUT guilds/297435889565564928/members/293204684401803267/roles/347458179937992704: 257.78 ms
+03:49:05 [Verbose] Command: Executed "addrole" for -VM-Zynch#9813 in VirMortalis/adminbot

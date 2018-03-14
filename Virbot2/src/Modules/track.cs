@@ -17,10 +17,15 @@ namespace Vir.Modules
         [Summary("Role a member")]
         public async Task Mem(IGuildUser user, [Remainder]string me)
         {
-        var role = Context.Guild.Roles.FirstOrDefault(x => x.Name.ToString() == me);
-        await(user as IGuildUser).AddRoleAsync(role);
- 
-    }
+            var role = Context.Guild.Roles.FirstOrDefault(x => x.Name.ToString() == me);
+            await (user as IGuildUser).AddRoleAsync(role);
 
-}
+            //  }
+            // [Command("t"), Alias("t")]
+            // [Summary("Tell me something")]
+            //[RequireUserPermission(GuildPermission.Administrator)]
+            //public async Task T([Remainder]ulong chn, [Remainder]string text) => ReplyAsync(IGuildChannel as chn);
+
+        }
+    }
 }
